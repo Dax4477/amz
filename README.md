@@ -1,110 +1,55 @@
-# Mastery Practice Lite — GitHub Pages Edition
+# Mastery Practice Lite v1.1 — Multiple Booklets
 
-A static personal practice app. No PHP, database, login, analytics, payment system, admin panel, or build tools.
+## Add more questions to an existing booklet
+Open that booklet JSON and add more objects inside `questions`.
 
-## Files
+Example: if one booklet has 100 questions and level size is 10, it stays one booklet and gets 10 Mastery levels.
 
-- `index.html` — complete UI and practice engine
-- `questions.json` — your live question bank
-- `questions-template.json` — blank starter example
-
-## Question format
+## Add a NEW booklet
+1. Copy `question-bank/booklet-template.json`.
+2. Rename it, e.g. `ibps-clerk-set-2.json`.
+3. Put your questions in it.
+4. Add one object to `question-bank/index.json`:
 
 ```json
 {
-  "code": "my-exam",
-  "title": "My Exam Practice",
-  "category": "Personal",
+  "id": "ibps-clerk-set-2",
+  "title": "IBPS Clerk — Set 2",
+  "category": "Banking",
+  "description": "IBPS Clerk practice questions.",
+  "question_count": 100,
+  "file": "ibps-clerk-set-2.json"
+}
+```
+
+The home page then shows a new booklet card automatically.
+
+## Booklet format
+```json
+{
+  "code": "ibps-clerk-set-2",
+  "title": "IBPS Clerk — Set 2",
+  "category": "Banking",
+  "description": "Practice questions.",
   "questions": [
     {
       "id": 1,
-      "question": "Your question text",
-      "options": ["Option A", "Option B", "Option C", "Option D"],
-      "answer": "Option B",
-      "explanation": "Optional explanation"
+      "question": "Question text",
+      "options": ["A","B","C","D"],
+      "answer": "B",
+      "explanation": "Optional"
     }
   ]
 }
 ```
 
-`answer` must exactly match one item in `options`.
+`answer` must exactly match one value in `options`.
 
-### Long / structured questions
+For long questions use `\n` line breaks.
 
-Use `\n` line breaks:
-
-```json
-{
-  "question": "Study the statements:\n\nA. First statement\nB. Second statement\n\nWhich is correct?",
-  "options": ["A only", "B only", "Both", "Neither"],
-  "answer": "A only"
-}
-```
-
-The UI preserves the line breaks.
-
-### Optional question image
-
-Add:
-
+Optional image:
 ```json
 "image": "./images/question-1.png"
 ```
 
-Then create an `images` folder beside `index.html`.
-
-## Mastery Mode
-
-- 10 questions per level
-- immediate answer feedback
-- 100% unlocks next level
-- progress stored in this browser with `localStorage`
-- options are shuffled
-
-To change level size, edit in `index.html`:
-
-```js
-const FILE='./questions.json', LEVEL=10
-```
-
-## Timed Mode
-
-- choose question count
-- choose minutes
-- random question selection
-- shuffled options
-- Previous / Next
-- Mark for review
-- question navigator
-- timer auto-submit
-- final score and answer review
-
-## GitHub Pages
-
-Upload these files to the repository root.
-
-Then enable GitHub Pages for the repository from the `main` branch and root folder.
-
-The project uses relative paths, so it works under a repository URL such as:
-
-```text
-https://USERNAME.github.io/REPOSITORY/
-```
-
-## Local testing
-
-Browsers often block JSON `fetch()` when you open `index.html` directly with `file://`.
-
-Run a local server instead:
-
-```bash
-python -m http.server 8080
-```
-
-Then open:
-
-```text
-http://localhost:8080/
-```
-
-For normal GitHub Pages hosting, no server-side setup is needed.
+Upload the whole folder structure to GitHub Pages. No PHP/database is required.
