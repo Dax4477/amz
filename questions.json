@@ -1,151 +1,2359 @@
 {
-  "code": "personal-practice",
-  "title": "My Personal Practice Bank",
-  "category": "Personal",
+  "code": "mixed-practice",
+  "title": "Mixed Practice Question Bank",
+  "category": "Co-operation, Banking & Accounting",
   "questions": [
     {
       "id": 1,
-      "question": "Which number is the smallest?",
+      "question": "The 17th Director General of the International Cooperative Alliance (ICA) is __?",
       "options": [
-        "12",
-        "7",
-        "19",
-        "25"
+        "Jeroen Douglas",
+        "Bruno Roelants",
+        "Ariel Guarco",
+        "E. O. Greening"
       ],
-      "answer": "7",
-      "explanation": "7 is smaller than 12, 19 and 25."
+      "answer": "Ariel Guarco",
+      "explanation": "Marked as the answer in the source document."
     },
     {
       "id": 2,
-      "question": "Study the statements below and choose the correct answer.\n\nA. All squares are rectangles.\nB. All rectangles are squares.",
+      "question": "ICA reformulated Co-operative principles in 1995:",
       "options": [
-        "Only A is true",
-        "Only B is true",
-        "Both are true",
-        "Neither is true"
+        "due to the dynamic nature of the world",
+        "to prevent the erosion in values of Co-operation",
+        "both a & b",
+        "none of these"
       ],
-      "answer": "Only A is true",
-      "explanation": "Every square is a rectangle, but not every rectangle is a square."
+      "answer": "to prevent the erosion in values of Co-operation",
+      "explanation": "Marked as the answer in the source document."
     },
     {
       "id": 3,
-      "question": "What is 15 × 4?",
+      "question": "NABARD was dedicated to the service of the nation by __?",
       "options": [
-        "45",
-        "50",
-        "60",
-        "75"
+        "Indira Gandhi",
+        "Pranab Mukherjee",
+        "Prathibha Patil",
+        "Raj nath singh"
       ],
-      "answer": "60",
-      "explanation": "15 × 4 = 60."
+      "answer": "Indira Gandhi",
+      "explanation": "Marked as the answer in the source document."
     },
     {
       "id": 4,
-      "question": "Which word is closest in meaning to 'rapid'?",
+      "question": "Centre for Professional Excellence in Co-operatives has been set up within __?",
       "options": [
-        "Slow",
-        "Fast",
-        "Quiet",
-        "Heavy"
+        "NBSC",
+        "NCUI",
+        "NCCT",
+        "BIRD"
       ],
-      "answer": "Fast",
-      "explanation": "Rapid means fast or quick."
+      "answer": "NCCT",
+      "explanation": "Marked as the answer in the source document."
     },
     {
       "id": 5,
-      "question": "If a test has 20 questions and you answer 18 correctly, how many are incorrect?",
+      "question": "NCCT is registered under __?",
+      "options": [
+        "KCS ACT 1969",
+        "Multi State Cooperative Societies Act",
+        "Multi Unit Cooperative Societies Act",
+        "Society Registration Act, 1860"
+      ],
+      "answer": "Multi State Cooperative Societies Act",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 6,
+      "question": "Amit Shah launched __, the umbrella organisation for the UCBs, on 2nd March 2024.",
+      "options": [
+        "NFCSF",
+        "NUCFDC",
+        "NAFSCOB",
+        "None of these"
+      ],
+      "answer": "NUCFDC",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 7,
+      "question": "Sole agency for propagating principles and practices of Co-operation and protecting the entire interest of Co-operatives and Co-operators in the state of Kerala is __?",
+      "options": [
+        "KICMA",
+        "ICA",
+        "SCU",
+        "NABARD"
+      ],
+      "answer": "SCU",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 8,
+      "question": "__ is a professional management institute set up by SCU in 2009.",
+      "options": [
+        "ACSTI",
+        "KICMA",
+        "ICM",
+        "C-Pec"
+      ],
+      "answer": "KICMA",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 9,
+      "question": "Krishi Vigyan Kendra is related to __?",
+      "options": [
+        "KRIBHCO",
+        "NHRDF",
+        "IFFCO",
+        "CAMPCO"
+      ],
+      "answer": "KRIBHCO",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct one related to Marketfed in the below statements:\ni) It is the apex society enjoys export house status\nii) It is the National level organization of the marketing societies in India.\niii) Marketfed started a new line of business by selling Kerala’s own quality spices in attractive gift boxes in the brand name “Seasonings”\niv) Outright Purchase System is related to Marketfed",
+      "options": [
+        "All of these",
+        "ii only",
+        "i and iii only",
+        "i, iii, iv only"
+      ],
+      "answer": "i and iii only",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 11,
+      "question": "The __ may prepare and notify the recruitment rules of the societies mentioned in sub section (3A) of Section 80 and in Schedule I of the Act from time to time.",
+      "options": [
+        "Government",
+        "Registrar",
+        "General Body and the Registrar",
+        "None of the above"
+      ],
+      "answer": "General Body and the Registrar",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 12,
+      "question": "Section __ of KCS Act deals with Bar of Jurisdiction of court.",
+      "options": [
+        "Sec 100",
+        "Sec 101",
+        "Sec 104",
+        "None of these"
+      ],
+      "answer": "Sec 100",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 13,
+      "question": "Termination of members by Registrar is mentioned in __?",
+      "options": [
+        "Sec 17 (1)",
+        "Rule 16 (3)",
+        "Rule 18",
+        "Rule 16 (4)"
+      ],
+      "answer": "Rule 16 (4)",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 14,
+      "question": "The record and documents for audit should be prepared and produced by the __ within one month from the date of closing of financial year.",
+      "options": [
+        "Chief executive",
+        "President",
+        "Cashier",
+        "None of these"
+      ],
+      "answer": "Cashier",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 15,
+      "question": "__ has got power to exempt any society or any class of society from any of the provision of KCS Act as per Sec 101 of KCS Act.",
+      "options": [
+        "General Body",
+        "Registrar",
+        "Government",
+        "Managing Committee"
+      ],
+      "answer": "Government",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 16,
+      "question": "Urban Co-operative society means a co-operative society the principal object of which is to undertake __?",
+      "options": [
+        "Agricultural activities",
+        "Non agricultural activities",
+        "Both a and b",
+        "Any of the above"
+      ],
+      "answer": "Non agricultural activities",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 17,
+      "question": "Form number for application for affiliation to apex society is __?",
+      "options": [
+        "31",
+        "32",
+        "34",
+        "35"
+      ],
+      "answer": "35",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 18,
+      "question": "Removal of chairman of SCU by non confidence motion is mentioned in Rule __?",
+      "options": [
+        "43",
+        "161",
+        "147",
+        "130"
+      ],
+      "answer": "161",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 19,
+      "question": "Audit fee is calculated at the rate of 50 paisa for every Rs __?",
+      "options": [
+        "10",
+        "50",
+        "100",
+        "150"
+      ],
+      "answer": "100",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 20,
+      "question": "Attachment of property before award is mentioned in __?",
+      "options": [
+        "Sec 78, Rule 93",
+        "Sec 78, Rule 81",
+        "Sec 93, Rule 78",
+        "Sec 79, Rule 93"
+      ],
+      "answer": "Sec 78, Rule 81",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 21,
+      "question": "Source document of credit sales is:",
+      "options": [
+        "Sales Invoice",
+        "Sales Bill",
+        "Credit Note",
+        "Suppliers Invoice"
+      ],
+      "answer": "Sales Invoice",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 22,
+      "question": "Outsider’s claim against the assets of the business is called:",
+      "options": [
+        "Liability",
+        "Equities",
+        "Capital",
+        "Asset"
+      ],
+      "answer": "Liability",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 23,
+      "question": "The errors which cancel themselves out are called:",
+      "options": [
+        "Error of omission",
+        "Error of commission",
+        "Compensating errors",
+        "None of the above"
+      ],
+      "answer": "Compensating errors",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 24,
+      "question": "A ledger is called a book of",
+      "options": [
+        "Primary entry",
+        "Secondary entry",
+        "Original entry",
+        "None of the above"
+      ],
+      "answer": "Secondary entry",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 25,
+      "question": "Select the correct equation for expense ratio.\nI) Expense Ratio = Expense / Revenue from operations × 100\nII) Expense Ratio = Particular expense / Revenue from operations × 100\nIII) Expense ratio = Operating expense / Revenue from operations × 100\nIV) Expense Ratio = Total expense / Revenue from operations × 100",
+      "options": [
+        "I and III",
+        "II only",
+        "IV only",
+        "III only"
+      ],
+      "answer": "IV only",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 26,
+      "question": "The best system for maintain petty cash book is __?",
+      "options": [
+        "Imprest System",
+        "Cash system",
+        "Double locking System",
+        "Mixed system"
+      ],
+      "answer": "Imprest System",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 27,
+      "question": "Trial balance consist of __ accounts",
+      "options": [
+        "Personal account",
+        "Real account",
+        "Nominal account",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 28,
+      "question": "__ is used to both as a journal and ledger",
+      "options": [
+        "Day book",
+        "Cash book",
+        "Purchase book",
+        "Journal proper"
+      ],
+      "answer": "Cash book",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 29,
+      "question": "Purchase Return Account is same as __?",
+      "options": [
+        "Return inward account",
+        "Return outward account",
+        "Goods inward account",
+        "Goods purchase account"
+      ],
+      "answer": "Return outward account",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 30,
+      "question": "A bad debt written off earlier has been recovered. The effect will be:",
+      "options": [
+        "Decrease the gross profit",
+        "Increase the net profit",
+        "Increase the gross profit",
+        "No effect in net profit"
+      ],
+      "answer": "Increase the net profit",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 31,
+      "question": "In the case of pledge the possession of the security is with __?",
+      "options": [
+        "the debtor",
+        "the creditor",
+        "the third party",
+        "the guarantor"
+      ],
+      "answer": "the creditor",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 32,
+      "question": "The right to retain goods or property of a debtor for the debt is known as __?",
+      "options": [
+        "Set-off",
+        "Appropriation",
+        "Assignment",
+        "Lien"
+      ],
+      "answer": "Lien",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 33,
+      "question": "In Letter of Credit, the issuing banker is also called as __?",
+      "options": [
+        "the importer's bank",
+        "the advising bank",
+        "negotiating bank",
+        "the confirming bank"
+      ],
+      "answer": "the importer's bank",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 34,
+      "question": "From the bank point of view, the advantages of ATM are __?",
+      "options": [
+        "Alternative to expand banking hours",
+        "Cash handling and cash transportation is avoided",
+        "Alternative to new branches",
+        "All the above"
+      ],
+      "answer": "All the above",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 35,
+      "question": "Headquarters of SWIFT is at __?",
+      "options": [
+        "Italy",
+        "England",
+        "Brussels",
+        "Geneva"
+      ],
+      "answer": "Brussels",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 36,
+      "question": "The minimum amount for customer transaction for RTGS is __ rupees.",
+      "options": [
+        "20,000/-",
+        "2,00,000/-",
+        "3,00,000/-",
+        "1,00,000/-"
+      ],
+      "answer": "2,00,000/-",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 37,
+      "question": "Select one which is not related to National Automated Clearing House (NACH).",
+      "options": [
+        "Aim to consolidate multiple ECS system",
+        "System can be used for making small transactions only",
+        "System supports electronic transaction which are repetitive in nature",
+        "System supports Aadhaar based transaction"
+      ],
+      "answer": "System supports electronic transaction which are repetitive in nature",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 38,
+      "question": "As per the new amendment, how many nominees can be assigned for a bank account?",
+      "options": [
+        "up to 2 nominees",
+        "up to 4 nominees",
+        "up to 3 nominees",
+        "No limit"
+      ],
+      "answer": "up to 4 nominees",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 39,
+      "question": "Select a true statement associated to Certificate of Deposits (CD).",
+      "options": [
+        "Tenor of CD should be 7 days and maximum one year",
+        "CDs are traded in the secondary market",
+        "CDs may be issued at discounted value",
+        "All the above"
+      ],
+      "answer": "All the above",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 40,
+      "question": "RBI introduced Liquidity Adjustment Facility as per the recommendation of __ committee on banking reforms.",
+      "options": [
+        "Narasimham",
+        "P. J. Nayak",
+        "Reghuram Rajan",
+        "R. H. Khan"
+      ],
+      "answer": "Narasimham",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 41,
+      "question": "Consignment account is a __ account.",
+      "options": [
+        "Personal",
+        "Artificial personal",
+        "Real",
+        "Nominal"
+      ],
+      "answer": "Nominal",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 42,
+      "question": "Unclaimed deposits in banks are usually transferred to which of the following?",
+      "options": [
+        "Government treasury",
+        "Depositors’ families",
+        "RBI",
+        "Investor protection funds"
+      ],
+      "answer": "RBI",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 43,
+      "question": "What does SWIFT stand for in the context of financial messaging?",
+      "options": [
+        "Secure Web International Funds Transfer",
+        "Society for Worldwide Interbank Financial Telecommunication",
+        "Standardized Worldwide International Financial Transactions",
+        "Secure Worldwide Internet Financial Transactions"
+      ],
+      "answer": "Society for Worldwide Interbank Financial Telecommunication",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following banking models is opposite to the unit banking model?",
+      "options": [
+        "Universal banking",
+        "Branch banking",
+        "Commercial banking",
+        "Co-operative banking"
+      ],
+      "answer": "Branch banking",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 45,
+      "question": "According to BR Act 1949, which of the following activities are prohibited for a bank?",
+      "options": [
+        "Accepting deposits from the public",
+        "Trading in shares and securities for its own benefits",
+        "Providing loans to businesses",
+        "Offering financial advisory services"
+      ],
+      "answer": "Trading in shares and securities for its own benefits",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 46,
+      "question": "What is the role of the “Nostro” account in correspondent banking?",
+      "options": [
+        "It is the account held by a bank in its own country for domestic transactions",
+        "It is the account held by a bank in another country to facilitate international payments",
+        "It is the account used for securities trading",
+        "It is the account where foreign loans are kept"
+      ],
+      "answer": "It is the account held by a bank in another country to facilitate international payments",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 47,
+      "question": "What is the primary purpose of correspondent banking?",
+      "options": [
+        "To provide loans to other banks",
+        "To facilitate international transactions between banks",
+        "To offer insurance services to banks",
+        "To establish branch networks in other countries"
+      ],
+      "answer": "To facilitate international transactions between banks",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 48,
+      "question": "Which Section of BR Act 1949 deals with Power of Reserve Bank to control advances by banking companies?",
+      "options": [
+        "Section 5",
+        "Section 21",
+        "Section 45",
+        "Section 35"
+      ],
+      "answer": "Section 21",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 49,
+      "question": "UCO Bank belongs to __ category of banking sector.",
+      "options": [
+        "Pvt. Sector",
+        "Public sector",
+        "Foreign bank",
+        "Small finance bank"
+      ],
+      "answer": "Public sector",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 50,
+      "question": "Currently, the minimum paid up share capital required for setting up of a small finance bank is __?",
+      "options": [
+        "Rs. 100 crores",
+        "Rs. 200 crores",
+        "Rs. 250 crores",
+        "Rs. 500 crores"
+      ],
+      "answer": "Rs. 200 crores",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following type of banks not permitted to provide credit",
+      "options": [
+        "Payment Bank",
+        "Small Finance Bank",
+        "Virtual Banks",
+        "Shell banks"
+      ],
+      "answer": "Payment Bank",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 52,
+      "question": "Study Team on Co-operative Training (1961) was appointed by?",
+      "options": [
+        "Government of India",
+        "Government of Kerala",
+        "British Government",
+        "None of these"
+      ],
+      "answer": "Government of India",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 53,
+      "question": "SHG was introduced by?",
+      "options": [
+        "NABARD",
+        "NCCT",
+        "NCUI",
+        "NCDC"
+      ],
+      "answer": "NABARD",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 54,
+      "question": "PACS Developmental Cells are effective link between __ and PACS.",
+      "options": [
+        "Kerala Govt.",
+        "Central Govt. and Central Ministry of Co-operation",
+        "Kerala Bank",
+        "Department of Co-operation Kerala"
+      ],
+      "answer": "Kerala Bank",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 55,
+      "question": "SERIFED owns a Cocoon processing centre at __ in Kasaragod.",
+      "options": [
+        "Pattanakadu",
+        "Pattanakadu and Uduma",
+        "Uduma",
+        "Kalavoor"
+      ],
+      "answer": "Uduma",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 56,
+      "question": "Dr. Verghese Kurien won the ICA Rochdale Pioneers Award in __.",
+      "options": [
+        "2000",
+        "2001",
+        "2003",
+        "2004"
+      ],
+      "answer": "2001",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 57,
+      "question": "Which of the following does not include in the essential category?\ni) Open Membership\nii) Limited Interest on Share Capital\niii) Cash Trading\niv) Patronage Dividend",
+      "options": [
+        "(i), (ii) and (iv)",
+        "(iii) only",
+        "(iii) and (iv) only",
+        "None of these"
+      ],
+      "answer": "(iii) only",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 58,
+      "question": "“Co-operation is an educational programme employing economic activity”. Who said this?",
+      "options": [
+        "Mirdha Committee",
+        "Malcom Darling",
+        "Indira Gandhi",
+        "C. R. Fay"
+      ],
+      "answer": "Mirdha Committee",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 59,
+      "question": "“COCOFERT” is brand name of the products of __.",
+      "options": [
+        "CAMPCO",
+        "COIR BOARD",
+        "COIRFED",
+        "KERAFED"
+      ],
+      "answer": "COIRFED",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 60,
+      "question": "Matsya Fed was registered on:",
+      "options": [
+        "09.05.1980",
+        "19.03.1984",
+        "20.08.1984",
+        "24.11.1980"
+      ],
+      "answer": "09.05.1980",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 61,
+      "question": "One of the major recommendations of CRAFICARD Committee is:",
+      "options": [
+        "Business Development Plan",
+        "Prudential Norms",
+        "Formation of NABARD",
+        "Bank Computerisation"
+      ],
+      "answer": "Formation of NABARD",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 62,
+      "question": "Nutrico is the brand name of Coconut oil produced by:",
+      "options": [
+        "Kerafed",
+        "Rubco",
+        "Marketfed",
+        "Milma"
+      ],
+      "answer": "Rubco",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 63,
+      "question": "Section 2(ia) deals with __.",
+      "options": [
+        "DCA",
+        "Dispute",
+        "DCB",
+        "CSEB"
+      ],
+      "answer": "DCB",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 64,
+      "question": "Co-operative Revival Fund Scheme constituted under section __ of the Act",
+      "options": [
+        "57E",
+        "57A",
+        "57B",
+        "57C"
+      ],
+      "answer": "57E",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 65,
+      "question": "Application for registration of a society made in duplicate in Form No __.",
       "options": [
         "1",
         "2",
         "3",
         "4"
       ],
-      "answer": "2",
-      "explanation": "20 - 18 = 2."
+      "answer": "1",
+      "explanation": "Marked as the answer in the source document."
     },
     {
-      "id": 6,
-      "question": "Which of these is a prime number?",
+      "id": 66,
+      "question": "Registration fee for a society which has an area of operation limited to one district?",
       "options": [
-        "9",
-        "15",
-        "17",
-        "21"
+        "5000",
+        "2500",
+        "6250",
+        "12500"
       ],
-      "answer": "17",
-      "explanation": "17 has only two positive factors: 1 and 17."
+      "answer": "6250",
+      "explanation": "Marked as the answer in the source document."
     },
     {
-      "id": 7,
-      "question": "Choose the correctly spelled word.",
+      "id": 67,
+      "question": "Special general body meetings mentioned in Section 30 and __?",
       "options": [
-        "Accomodation",
-        "Accommodation",
-        "Acommodation",
-        "Accommadation"
+        "Rule 34",
+        "Rule 37",
+        "Rule 36",
+        "Rule 34 A"
       ],
-      "answer": "Accommodation",
-      "explanation": "Accommodation is the correct spelling."
+      "answer": "Rule 36",
+      "explanation": "Marked as the answer in the source document."
     },
     {
-      "id": 8,
-      "question": "A train travels 120 km in 2 hours. What is its average speed?",
+      "id": 68,
+      "question": "Rectification Register is maintained for a period of __.",
       "options": [
-        "40 km/h",
-        "50 km/h",
-        "60 km/h",
-        "80 km/h"
+        "2 years",
+        "5 years",
+        "3 years",
+        "Permanent"
       ],
-      "answer": "60 km/h",
-      "explanation": "Average speed = distance ÷ time = 120 ÷ 2 = 60 km/h."
+      "answer": "5 years",
+      "explanation": "Marked as the answer in the source document."
     },
     {
-      "id": 9,
-      "question": "Which fraction is equal to 0.5?",
+      "id": 69,
+      "question": "An application for registration of a society shall be disposed of by the Registrar within __.",
       "options": [
-        "1/2",
-        "1/3",
-        "2/5",
-        "3/5"
+        "90 days",
+        "45 days",
+        "60 days",
+        "30 days"
       ],
-      "answer": "1/2",
-      "explanation": "1 ÷ 2 = 0.5."
+      "answer": "60 days",
+      "explanation": "Marked as the answer in the source document."
     },
     {
-      "id": 10,
-      "question": "If TODAY is Monday, what day will it be after 3 days?",
+      "id": 70,
+      "question": "Principal State Partnership Fund shall be kept by __ society.",
       "options": [
-        "Tuesday",
-        "Wednesday",
-        "Thursday",
-        "Friday"
+        "Apex",
+        "Central",
+        "Federal",
+        "None of these"
       ],
-      "answer": "Thursday",
-      "explanation": "Three days after Monday is Thursday."
+      "answer": "Apex",
+      "explanation": "Marked as the answer in the source document."
     },
     {
-      "id": 11,
-      "question": "Which value is greatest?",
+      "id": 71,
+      "question": "Application for affiliation to the Central society or Apex society shall be in Form No. __ of Appendix II.",
       "options": [
-        "0.8",
-        "0.75",
-        "0.68",
-        "0.79"
-      ],
-      "answer": "0.8",
-      "explanation": "0.80 is greater than 0.79, 0.75 and 0.68."
-    },
-    {
-      "id": 12,
-      "question": "What is the next number in the sequence?\n2, 4, 8, 16, __",
-      "options": [
-        "18",
-        "24",
+        "31",
         "30",
-        "32"
+        "35",
+        "36"
       ],
-      "answer": "32",
-      "explanation": "Each number is doubled."
+      "answer": "31",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 72,
+      "question": "Reserve fund is created out of",
+      "options": [
+        "Share capital",
+        "Admission fees",
+        "Savings bank deposit",
+        "Net profit"
+      ],
+      "answer": "Net profit",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 73,
+      "question": "Under which category the expenses for the removal of the institution to more convenient place be included?",
+      "options": [
+        "Capital expenditure",
+        "Revenue Expenditure",
+        "Deferred Revenue Expenditure",
+        "None of these"
+      ],
+      "answer": "Deferred Revenue Expenditure",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 74,
+      "question": "Transactions in a Co-operative society are first recorded in the register called __.",
+      "options": [
+        "Cash book",
+        "General ledger",
+        "Day book",
+        "None of these"
+      ],
+      "answer": "Day book",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 75,
+      "question": "From the following find out the owned funds of State Co-operative Banks",
+      "options": [
+        "Share capital",
+        "Deposits",
+        "Debenture capital",
+        "None of the above"
+      ],
+      "answer": "Share capital",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 76,
+      "question": "What is the procedure when the balance in the cash book and pass book differs?",
+      "options": [
+        "Ignore",
+        "Reconcile",
+        "Make corrections",
+        "None of these"
+      ],
+      "answer": "Reconcile",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 77,
+      "question": "The depreciation calculated for the landed property is __ %",
+      "options": [
+        "2.5",
+        "5",
+        "3",
+        "No depreciation"
+      ],
+      "answer": "No depreciation",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 78,
+      "question": "No Journal entry is required to be passed when there is",
+      "options": [
+        "Bad debts",
+        "Loss of goods by theft",
+        "Normal loss",
+        "Abnormal loss"
+      ],
+      "answer": "Normal loss",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 79,
+      "question": "Period costs are __ cost.",
+      "options": [
+        "Variable",
+        "Prime",
+        "Fixed",
+        "Overhead"
+      ],
+      "answer": "Fixed",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 80,
+      "question": "Which of the following is NOT a cause of depreciation?",
+      "options": [
+        "Passage of time",
+        "Price inflation",
+        "Obsolescence",
+        "Natural wear and tear"
+      ],
+      "answer": "Price inflation",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 81,
+      "question": "Which of the following is an example of a Capital Reserve?",
+      "options": [
+        "Workmen's Compensation Fund",
+        "General Reserve",
+        "Dividend Equalisation Reserve",
+        "Securities Premium (Premium on Issue of Shares)"
+      ],
+      "answer": "Securities Premium (Premium on Issue of Shares)",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 82,
+      "question": "Termination of the relationship between a Banker and a Customer in the case of:",
+      "options": [
+        "The completion of the contract or the specific transaction",
+        "The closing of the account by the bank after giving due notice",
+        "Liquidation of the company",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 83,
+      "question": "IRAC Norms means __?",
+      "options": [
+        "Income Recognition and Capital Adequacy Norms",
+        "Income Recognition and Asset Classification Norms",
+        "Income Recognition Asset Classification and Capital Adequacy Norms",
+        "Income Recognition, Asset Classification and Provisioning Norms"
+      ],
+      "answer": "Income Recognition, Asset Classification and Provisioning Norms",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 84,
+      "question": "The “moratorium period” in banking refers to:",
+      "options": [
+        "The time taken to sanction a loan.",
+        "A duration where the borrower is not required to make repayments.",
+        "The period when interest is not charged.",
+        "The final stage of loan repayment."
+      ],
+      "answer": "A duration where the borrower is not required to make repayments.",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 85,
+      "question": "Where is the headquarters of the Bank of India located?",
+      "options": [
+        "New Delhi",
+        "Kolkata",
+        "Chennai",
+        "Mumbai"
+      ],
+      "answer": "Mumbai",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 86,
+      "question": "What is the minimum net worth required for Small Finance Banks (SFBs) under updated guidelines?",
+      "options": [
+        "100 crore",
+        "150 crore",
+        "200 crore",
+        "300 crore"
+      ],
+      "answer": "200 crore",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 87,
+      "question": "Which among the following Statement is wrong",
+      "options": [
+        "The Trading Account is prepared to ascertain the Net profit of the business",
+        "Trading and P/L account is also known as income statement",
+        "Net sales = Sales - Sales return",
+        "None of these"
+      ],
+      "answer": "The Trading Account is prepared to ascertain the Net profit of the business",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 88,
+      "question": "If the suspense account is credit side of Trial balance it will be shown on the __ side",
+      "options": [
+        "Asset",
+        "Liability",
+        "Asset or liability",
+        "Shown in footnote"
+      ],
+      "answer": "Liability",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 89,
+      "question": "The preparation of Trial Balance helps to locate",
+      "options": [
+        "Errors of principle",
+        "Compensating errors",
+        "Errors of partial omission",
+        "Errors of complete omission"
+      ],
+      "answer": "Errors of partial omission",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 90,
+      "question": "The stock shown in trial balance always represents the __?",
+      "options": [
+        "Stock at the commencement of the trading period",
+        "Closing stock",
+        "Work in process",
+        "Stock consumed"
+      ],
+      "answer": "Stock at the commencement of the trading period",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 91,
+      "question": "If outstanding expenses given inside the trial balance its place in final accounts.",
+      "options": [
+        "Balance Sheet Assets Side",
+        "Balance Sheet Liability Side",
+        "Profit and Loss account debit side",
+        "Profit and Loss account credit side"
+      ],
+      "answer": "Balance Sheet Liability Side",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 92,
+      "question": "The statement showing the financial status of a society at any given time is:",
+      "options": [
+        "Trading account",
+        "Balance sheet",
+        "Profit and loss account",
+        "Cash book"
+      ],
+      "answer": "Balance sheet",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 93,
+      "question": "Debit balance of a profit and loss account is:",
+      "options": [
+        "Loss",
+        "Current asset",
+        "Profit",
+        "Floating asset"
+      ],
+      "answer": "Loss",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 94,
+      "question": "Which of the following item does not appear in the profit and loss account?",
+      "options": [
+        "Stationary consumed",
+        "Salaries and wages",
+        "Installation charge of new machinery",
+        "Repairs to machinery"
+      ],
+      "answer": "Installation charge of new machinery",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 95,
+      "question": "Balances of personal and real accounts are transferred to",
+      "options": [
+        "Trading account",
+        "Profit and loss account",
+        "Income and expenditure account",
+        "Balance Sheet"
+      ],
+      "answer": "Balance Sheet",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 96,
+      "question": "Outstanding wages appears in the trial balance taken only in",
+      "options": [
+        "Trading account",
+        "Profit and loss account",
+        "Asset side of balance sheet",
+        "Liability side of balance sheet"
+      ],
+      "answer": "Liability side of balance sheet",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 97,
+      "question": "Consider the following statements:\nI. Imputed cost is also known as notional cost.\nII. Conversion cost is the cost of converting direct materials into partly or fully finished products.\nIII. Fixed cost per unit will be variable.\nIV. Fixed cost is also known as flat cost.",
+      "options": [
+        "All are correct",
+        "I, II and III are correct",
+        "II, III and IV are correct",
+        "I and III only are correct"
+      ],
+      "answer": "I and III only are correct",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 98,
+      "question": "Variable cost per unit will be __",
+      "options": [
+        "Fixed",
+        "Variable",
+        "Semi-variable",
+        "None of these"
+      ],
+      "answer": "Fixed",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 99,
+      "question": "Product M requires 100 kg of material at a standard price of ₹40 per kg. The actual consumption was 120 kg at an actual price of ₹45 per kg. What is the Material Cost Variance (MCV)?",
+      "options": [
+        "₹1,000 (A)",
+        "₹1,400 (A)",
+        "₹1,400 (F)",
+        "₹5,400 (A)"
+      ],
+      "answer": "₹1,400 (A)",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 100,
+      "question": "The standard quantity of material required is 5 kg per unit and the standard price is ₹15 per kg. During a period, 400 units were produced. The actual quantity of material purchased and used was 2,200 kg at ₹14.40 per kg. What is the Material Price Variance (MPV)?",
+      "options": [
+        "₹1,320 (F)",
+        "₹1,320 (A)",
+        "₹2,000 (F)",
+        "₹2,200 (A)"
+      ],
+      "answer": "₹1,320 (F)",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 101,
+      "question": "The prime objective of standard costing is __.",
+      "options": [
+        "Variance determination",
+        "Cost measurement",
+        "Cost estimation",
+        "Cost control"
+      ],
+      "answer": "Cost control",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 102,
+      "question": "P/V ratio can be improved by __",
+      "options": [
+        "Increasing the selling price",
+        "Reducing fixed cost per unit",
+        "Selecting the best product mix",
+        "Both A and C"
+      ],
+      "answer": "Both A and C",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 103,
+      "question": "A company has sales of ₹10,00,000, P/V Ratio of 40%, and profit of ₹1,50,000. What are the Contribution and Fixed Cost?",
+      "options": [
+        "Contribution ₹4,00,000; Fixed Cost ₹2,50,000",
+        "Contribution ₹4,00,000; Fixed Cost ₹1,50,000",
+        "Contribution ₹2,50,000; Fixed Cost ₹4,00,000",
+        "Contribution ₹5,50,000; Fixed Cost ₹4,00,000"
+      ],
+      "answer": "Contribution ₹4,00,000; Fixed Cost ₹2,50,000",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 104,
+      "question": "What is the break-even level of business of a branch?",
+      "options": [
+        "Sales revenue not equal to cost",
+        "Point of no profit and no loss",
+        "Contribution is equal to fixed cost",
+        "Cost and sale value are different"
+      ],
+      "answer": "Point of no profit and no loss",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 105,
+      "question": "When your income is in line with your expenses, you are said to achieve:",
+      "options": [
+        "Target point",
+        "Break-even point",
+        "Total adjustment",
+        "Differentiation"
+      ],
+      "answer": "Break-even point",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 106,
+      "question": "Goods purchased = ₹1,00,000; Sales = ₹90,000; Margin of profit = 20% on cost. What is the closing stock?",
+      "options": [
+        "₹20,000",
+        "₹10,000",
+        "₹25,000",
+        "₹72,000"
+      ],
+      "answer": "₹25,000",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 107,
+      "question": "The difference between actual sales and sales at the break-even point, is called:",
+      "options": [
+        "Margin of Loss",
+        "Margin of Contribution",
+        "Margin of Safety",
+        "Sales Margin"
+      ],
+      "answer": "Margin of Safety",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 108,
+      "question": "The ratio between contribution and sales is called:",
+      "options": [
+        "Break-even Point",
+        "Marginal Cost",
+        "P/V Ratio",
+        "Prime Cost"
+      ],
+      "answer": "P/V Ratio",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 109,
+      "question": "Bank overdraft as per the Cash Book is a __.",
+      "options": [
+        "Debit balance",
+        "Credit balance",
+        "Cash balance",
+        "Favourable balance"
+      ],
+      "answer": "Credit balance",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 110,
+      "question": "If overdraft as per Cash Book is the starting point, a cheque of ₹5,000 deposited into the bank but not recorded in the Cash Book will be:",
+      "options": [
+        "Added by ₹5,000",
+        "Deducted by ₹10,000",
+        "Added by ₹10,000",
+        "Deducted by ₹5,000"
+      ],
+      "answer": "Deducted by ₹5,000",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 111,
+      "question": "Which of the following is NOT a correct statement regarding a Bank Reconciliation Statement (BRS)?",
+      "options": [
+        "It helps ascertain the actual position of the bank balance.",
+        "Any undue delay in the clearance of cheques can be identified through reconciliation.",
+        "Reconciliation helps detect errors in either the Cash Book or the Pass Book.",
+        "Reconciliation is prepared by the banker for the concerned enterprise."
+      ],
+      "answer": "Reconciliation is prepared by the banker for the concerned enterprise.",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 112,
+      "question": "The nomination to be made by the customer in respect of Deposit in form No. __",
+      "options": [
+        "DA-1",
+        "DA-2",
+        "DA-3",
+        "DA-4"
+      ],
+      "answer": "DA-1",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 113,
+      "question": "From the following ratios which ratio is covered under Activity Ratio?",
+      "options": [
+        "Debt-Equity Ratio",
+        "Working Capital Ratio",
+        "Interest Coverage Ratio",
+        "Inventory Turnover Ratio"
+      ],
+      "answer": "Inventory Turnover Ratio",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 114,
+      "question": "From the following which ratio is not covered under Leverage Ratio?",
+      "options": [
+        "Debt-Equity",
+        "Return on Equity",
+        "Interest Coverage Ratio",
+        "Debt to Assets Ratio"
+      ],
+      "answer": "Return on Equity",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 115,
+      "question": "Rs. 2,000 paid for the installation of a machine should be debited to:",
+      "options": [
+        "Wages Account",
+        "Machinery Account",
+        "Capital Account",
+        "Profit & Loss Account"
+      ],
+      "answer": "Machinery Account",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 116,
+      "question": "Old furniture was purchased, and ₹1,000 was spent on its repairs before it was put to use. ₹1,000 should be debited to:",
+      "options": [
+        "Repairs Account",
+        "Furniture Account",
+        "Labour Paid Account",
+        "None of the Above"
+      ],
+      "answer": "Furniture Account",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 117,
+      "question": "In the Cash Book, a favourable bank balance is indicated by:",
+      "options": [
+        "Credit Balance",
+        "Bank Overdraft",
+        "Adjusted Balance",
+        "Debit Balance"
+      ],
+      "answer": "Debit Balance",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 118,
+      "question": "Which of the following is an error of commission?",
+      "options": [
+        "Repair expenditure on an asset was debited to the Asset Account.",
+        "A sale of ₹5,000 was omitted from the books.",
+        "A purchase of ₹7,400 was wrongly posted in the ledger.",
+        "None of the above"
+      ],
+      "answer": "A purchase of ₹7,400 was wrongly posted in the ledger.",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 119,
+      "question": "The main objective of Schulze-Delitzsch societies was to provide credit to __?",
+      "options": [
+        "Farmers",
+        "Industrial workers",
+        "Small traders and artisans",
+        "Agricultural labourers"
+      ],
+      "answer": "Small traders and artisans",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 120,
+      "question": "The Raiffeisen model mainly aimed at helping __?",
+      "options": [
+        "Rural peasants and farmers",
+        "Urban traders",
+        "Industrialists",
+        "Government employees"
+      ],
+      "answer": "Rural peasants and farmers",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 121,
+      "question": "ALTE VOLKES FURSORGE in Germany is __?",
+      "options": [
+        "Wholesale society",
+        "Provincial union of banks",
+        "Cooperative insurance society",
+        "Cooperative housing society"
+      ],
+      "answer": "Cooperative insurance society",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 122,
+      "question": "The difference between Schulze society and Raiffeisen society given below. Choose the wrong statement.",
+      "options": [
+        "Value of share in Schulze is high and in Raiffeisen society it is low",
+        "In Schulze society there is strict supervision of loans and in Raiffeisen society no strict supervision of loans",
+        "Area of work of Schulze society is in Urban area and Rural area in case of Raiffeisen societies",
+        "None of these"
+      ],
+      "answer": "In Schulze society there is strict supervision of loans and in Raiffeisen society no strict supervision of loans",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 123,
+      "question": "Schulze-Delitzsch societies had",
+      "options": [
+        "Unlimited liability and unpaid management",
+        "Limited liability and paid management",
+        "Unlimited liability and paid management",
+        "Limited liability and unpaid management"
+      ],
+      "answer": "Limited liability and paid management",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 124,
+      "question": "The book “Principles of Co-operative Banking” was published by Schulze in __.",
+      "options": [
+        "1847",
+        "1850",
+        "1856",
+        "1862"
+      ],
+      "answer": "1856",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 125,
+      "question": "Which clubs are famous in Denmark related to cattle breeding and young farmers?",
+      "options": [
+        "Farmer's Union and Milk Producers Club",
+        "Bull Club and Young Farmers Club",
+        "Dairy Producers Club and Agricultural Club",
+        "Cattle Breeders Association and Youth Union"
+      ],
+      "answer": "Bull Club and Young Farmers Club",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 126,
+      "question": "In which year was education made compulsory in Denmark?",
+      "options": [
+        "1800",
+        "1814",
+        "1850",
+        "1900"
+      ],
+      "answer": "1814",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 127,
+      "question": "Stilling Anderson is related with:",
+      "options": [
+        "Consumer cooperatives",
+        "Marketing cooperatives",
+        "Dairying in Denmark",
+        "Agricultural machinery"
+      ],
+      "answer": "Dairying in Denmark",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 128,
+      "question": "Banks which started in connection with twenty point programme was __?",
+      "options": [
+        "RRB",
+        "NABARD",
+        "SAA",
+        "LAB"
+      ],
+      "answer": "RRB",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 129,
+      "question": "Which among the following is wrong regarding RRB",
+      "options": [
+        "Recommended by Nariman committee",
+        "Set up in 2nd Oct 1975",
+        "RRB Act 1976",
+        "None of these"
+      ],
+      "answer": "Recommended by Nariman committee",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 130,
+      "question": "Kerala Grameena Bank was sponsored by __?",
+      "options": [
+        "SBI",
+        "PNB",
+        "Canara bank",
+        "Indian bank"
+      ],
+      "answer": "Canara bank",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 131,
+      "question": "Airtel Payment Bank established in __?",
+      "options": [
+        "2016",
+        "2017",
+        "2018",
+        "2019"
+      ],
+      "answer": "2017",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 132,
+      "question": "Lead Bank scheme was introduced in the year?",
+      "options": [
+        "1975",
+        "1982",
+        "1980",
+        "1969"
+      ],
+      "answer": "1969",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 133,
+      "question": "What is the proportion of paid-up capital contribution by central Government, State Government and Sponsored bank in case of an RRB?",
+      "options": [
+        "25:25:50",
+        "35:50:15",
+        "50:35:15",
+        "50:15:35"
+      ],
+      "answer": "50:15:35",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 134,
+      "question": "Total number of banks nationalized in 1969",
+      "options": [
+        "16",
+        "18",
+        "14",
+        "17"
+      ],
+      "answer": "14",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 135,
+      "question": "Self-Help Group (SHG) bank linkage programme first launched by?",
+      "options": [
+        "NABARD",
+        "SBI",
+        "RBI",
+        "None of these"
+      ],
+      "answer": "NABARD",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 136,
+      "question": "What does the first four characters of the IFSC code represent?",
+      "options": [
+        "Branchcode",
+        "Bank name",
+        "City code",
+        "Account type"
+      ],
+      "answer": "Bank name",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 137,
+      "question": "Which component of CAMELS focuses on the adequacy of loan loss reserves and the level of non-performing loans (NPLs)?",
+      "options": [
+        "Capital Adequacy",
+        "Asset Quality",
+        "Management",
+        "Liquidity"
+      ],
+      "answer": "Asset Quality",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 138,
+      "question": "The audit report of the accounts of an apex Co-operative Society which includes the report on administrative matters, shall be __?",
+      "options": [
+        "laid by the Government before the legislative assembly",
+        "laid by the auditor before the general body",
+        "laid by the director before the management committee",
+        "laid by the registrar before the minister for Co-operation"
+      ],
+      "answer": "laid by the Government before the legislative assembly",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 139,
+      "question": "If the audit discloses any misappropriation or fraud or defalcation of money or property or assets of the society, audit team shall prepare a special report and forward the same to __?",
+      "options": [
+        "Registrar (A)",
+        "DCA (B)",
+        "Head of the Team (C)",
+        "A and B"
+      ],
+      "answer": "A and B",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 140,
+      "question": "In the case of those societies which are liable to file income tax returns, financial statements for that purpose shall be duly certified by the Auditor, within __ from the end of the financial year?",
+      "options": [
+        "2 months",
+        "3 months",
+        "6 months",
+        "45 days"
+      ],
+      "answer": "45 days",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 141,
+      "question": "On completion of audit and before submission of audit report to the Director of Cooperative Audit, the auditor or audit team or audit firm, as the case may be, shall discuss the audit findings with __?",
+      "options": [
+        "General body",
+        "Managing committee",
+        "Registrar",
+        "No such discussion"
+      ],
+      "answer": "Managing committee",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 142,
+      "question": "The Trivandrum Central Co-operative Bank was renamed in 1943 as __?",
+      "options": [
+        "Travancore Central co-operative Bank",
+        "Travancore Cochin State Co-operative Bank",
+        "Trivandrum District Co-operative",
+        "None of these"
+      ],
+      "answer": "Travancore Central co-operative Bank",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 143,
+      "question": "In which definition in Section 2 the following Sentence is added “It includes the verification of accounts through software solutions, auditing of information system and migration of data, in the case of societies whose accounts are computerized”",
+      "options": [
+        "Auditing of Cooperative Society",
+        "DCA",
+        "Assisted Society",
+        "None of these"
+      ],
+      "answer": "Auditing of Cooperative Society",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 144,
+      "question": "“Administrative audit” is defined in Section",
+      "options": [
+        "2 (ad)",
+        "2 (da)",
+        "2 (aad)",
+        "2 (ada)"
+      ],
+      "answer": "2 (ad)",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 145,
+      "question": "__ means a close assessment of all affairs of the society, including constitution, management and establishment, maintenance of books and accounts and other records and internal control systems of the society and the extent to which its activities were useful in promoting the economic welfare of the members in accordance with the cooperative principles, and it includes Compliance Audit, Performance Audit as well as IT Audit.",
+      "options": [
+        "administrative audit",
+        "financial audit",
+        "performance audit",
+        "conditional audit"
+      ],
+      "answer": "administrative audit",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 146,
+      "question": "“Common software for Primary Agricultural Credit Societies” defined in Sec 2",
+      "options": [
+        "(ad)",
+        "(da)",
+        "(aad)",
+        "(db)"
+      ],
+      "answer": "(aad)",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 147,
+      "question": "__ means effective software solution that covers the complete day-to-day functions of Primary Agricultural Credit Societies through a centralised architecture.",
+      "options": [
+        "common software",
+        "consortium",
+        "special software",
+        "programme software"
+      ],
+      "answer": "common software",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 148,
+      "question": "What is the relationship between a banker and a customer in case of safe custody of articles?",
+      "options": [
+        "agent and principal",
+        "bailor and bailee",
+        "trustee and beneficiary",
+        "bailee and bailor"
+      ],
+      "answer": "bailor and bailee",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 149,
+      "question": "In case of collection of cheques and bills, the relationship of the banker with the customer is that of:",
+      "options": [
+        "Banker as bailor",
+        "Banker as debtor",
+        "Bank as trustee",
+        "Banker as agent"
+      ],
+      "answer": "Banker as agent",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 150,
+      "question": "When a banker finds any item left any valuable item inadvertently by the customer & keeps valuables of a customer, banker is __?",
+      "options": [
+        "Bailee",
+        "Trustee",
+        "Lessee",
+        "Agent"
+      ],
+      "answer": "Bailee",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 151,
+      "question": "Banker customer relationship comes to an end under which of the following circumstances?",
+      "options": [
+        "Insanity of the customer",
+        "Insolvency of the customer",
+        "Death of customer",
+        "Death of customer, Insanity and Insolvency of the customer"
+      ],
+      "answer": "Death of customer, Insanity and Insolvency of the customer",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 152,
+      "question": "A garnishee order is operative only when the banker customer relationship is __?",
+      "options": [
+        "Debtor and Creditor",
+        "Principal and Agent",
+        "Trustee and Beneficiary",
+        "None of the above"
+      ],
+      "answer": "Debtor and Creditor",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 153,
+      "question": "After the closure of the account:",
+      "options": [
+        "The bank need not maintain secrecy",
+        "Bank is still bound to maintain secrecy",
+        "Bank is bound to give details to CIBIL",
+        "None of the above"
+      ],
+      "answer": "Bank is still bound to maintain secrecy",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 154,
+      "question": "Who stated that customer secrecy should continue even after account closure and death?",
+      "options": [
+        "Sir John Paget",
+        "John Maynard Keynes",
+        "M Narasimham",
+        "H L Hart"
+      ],
+      "answer": "Sir John Paget",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 155,
+      "question": "Under which section of the Banking Regulation Act does NABARD inspect RRBs?",
+      "options": [
+        "Section 21",
+        "Section 24",
+        "Section 35(6)",
+        "Section 40"
+      ],
+      "answer": "Section 35(6)",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 156,
+      "question": "KYC Compliance is a Mandatory Exercise under the Prevention of __?",
+      "options": [
+        "Money Laundering Act 2001",
+        "Money Laundering Act 2002",
+        "Money Laundering Act 2004",
+        "Money Laundering Act 2005"
+      ],
+      "answer": "Money Laundering Act 2002",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 157,
+      "question": "Know Your Customer guideline Norms have been introduced on the Recommendation made by __?",
+      "options": [
+        "Financial Action Task Force",
+        "Narasimham Committee",
+        "Rangarajan Committee",
+        "None of these"
+      ],
+      "answer": "Financial Action Task Force",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 158,
+      "question": "Normally what kind of Lien applicable to Banker?",
+      "options": [
+        "Pledge",
+        "General lien",
+        "Particular Lien",
+        "None of these"
+      ],
+      "answer": "General lien",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 159,
+      "question": "Which is correct about automatic right of set off of accounts under the following circumstances?\nI. Death of the customer\nII. Insolvency of the customer\nIII. When different accounts are in the same name and capacity",
+      "options": [
+        "III only",
+        "I and II",
+        "I, II and III",
+        "II and III"
+      ],
+      "answer": "I, II and III",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 160,
+      "question": "State bank of India sanctioned a loan in the name of Adarsh, which he had not been repaying. The bank has come to know that Adarsh is having an FDR account with Canara bank in the same city. At the time of maturity of the term deposit, letter is received by Canara Bank from State Bank of India to remit money to credit in the loan account:",
+      "options": [
+        "the amount would be remitted by the Canara Bank to SBI",
+        "if indemnity bond is executed by SBI, the amount can be remitted",
+        "if consent is given by the depositor and his nominee, the amount can be remitted",
+        "the amount cannot be remitted, as right of set-off is not available to SBI"
+      ],
+      "answer": "the amount cannot be remitted, as right of set-off is not available to SBI",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 161,
+      "question": "__ is the right of the banker to adjust the amount due to him from a customer on one account against the amount due from the customer on another account",
+      "options": [
+        "Right to appropriate",
+        "Right to recall",
+        "Right to set off",
+        "None of these"
+      ],
+      "answer": "Right to set off",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 162,
+      "question": "Clayton's Case relates to",
+      "options": [
+        "Right to Combine",
+        "Right to Setoff",
+        "Right to Honour",
+        "Right of Appropriation"
+      ],
+      "answer": "Right of Appropriation",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 163,
+      "question": "Clayton's Rule is applied in case of",
+      "options": [
+        "Death",
+        "Retirement",
+        "Insolvency of partner",
+        "All of these"
+      ],
+      "answer": "All of these",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 164,
+      "question": "The appropriation takes place in __ order according to Clayton's Case.",
+      "options": [
+        "Alphabetical Order",
+        "Preferential Order",
+        "Chronological Order",
+        "No specific Order"
+      ],
+      "answer": "Chronological Order",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 165,
+      "question": "The Rule Clayton's case is incorporated in which section of Indian Contract Act 1872",
+      "options": [
+        "63",
+        "61",
+        "62",
+        "60"
+      ],
+      "answer": "61",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 166,
+      "question": "When banks give home loans, the nature of charge created is __?",
+      "options": [
+        "Hypothecation",
+        "Mortgage",
+        "Assignment",
+        "Pledge"
+      ],
+      "answer": "Mortgage",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 167,
+      "question": "The bailment of movable property for securing loan is called __?",
+      "options": [
+        "Mortgage",
+        "Lien",
+        "Hypothecation",
+        "Pledge"
+      ],
+      "answer": "Pledge",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 168,
+      "question": "Power of Attorney should be __?",
+      "options": [
+        "notarized",
+        "registered",
+        "notarized and registered",
+        "notarized or registered"
+      ],
+      "answer": "notarized or registered",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 169,
+      "question": "Mr. Adarsh wants to give mandate to her minor son to operate his account.",
+      "options": [
+        "It can be accepted since minor can be an agent",
+        "It cannot be accepted since minor cannot be an agent",
+        "Mandate can be accepted but minor is not allowed to draw cheque",
+        "None of the above"
+      ],
+      "answer": "It can be accepted since minor can be an agent",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 170,
+      "question": "Right of set off is exercised in case of __?",
+      "options": [
+        "Future debts",
+        "Debts due and determined",
+        "Contingent liability",
+        "Money deposit with some other specific purpose"
+      ],
+      "answer": "Debts due and determined",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 171,
+      "question": "Power of attorney is a document duly stamped as per __ Act.",
+      "options": [
+        "Book Evidence Act",
+        "Indian Contract Act",
+        "Stamp Act",
+        "NI Act"
+      ],
+      "answer": "Stamp Act",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 172,
+      "question": "In addition to banker who has a general lien:",
+      "options": [
+        "Defaulter",
+        "Guarantor",
+        "Attorney",
+        "Debtor"
+      ],
+      "answer": "Defaulter",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 173,
+      "question": "Banker's general lien is available",
+      "options": [
+        "On goods on safe custody",
+        "Goods in locker",
+        "On goods and securities received in the capacity of a banker",
+        "Goods left by debtor by mistake"
+      ],
+      "answer": "On goods and securities received in the capacity of a banker",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 174,
+      "question": "Pledge is a special type of __?",
+      "options": [
+        "Guarantee",
+        "Contract",
+        "Bailment",
+        "Mortgage"
+      ],
+      "answer": "Bailment",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 175,
+      "question": "The charge of immovable property to be created is known as __?",
+      "options": [
+        "Pledge",
+        "Mortgage",
+        "Assignment",
+        "Lien"
+      ],
+      "answer": "Mortgage",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 176,
+      "question": "The limitation period of a mortgage is __?",
+      "options": [
+        "3 years",
+        "7 years",
+        "10 years",
+        "12 years"
+      ],
+      "answer": "12 years",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 177,
+      "question": "__ is a combination of two or more forms of mortgages.",
+      "options": [
+        "Equitable Mortgage",
+        "English Mortgage",
+        "Anomalous Mortgage",
+        "Usufructuary"
+      ],
+      "answer": "Anomalous Mortgage",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 178,
+      "question": "Consider the following Statements\nStatement 1: Chapter VIII Part B deals with inquiry, inspection and surcharge\nStatement 2: Rule 66 deals with procedure for the conduct of inquiry and inspection",
+      "options": [
+        "Both Statements are incorrect",
+        "Both Statements are correct",
+        "Statement 1 only correct",
+        "Statement 2 only correct"
+      ],
+      "answer": "Both Statements are correct",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 179,
+      "question": "Which among the following is wrong as per section 65(1)?",
+      "options": [
+        "Registrar on his own motion",
+        "Application by not less than two third of the total members of the society",
+        "On a report of DCA",
+        "None of these"
+      ],
+      "answer": "On a report of DCA",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 180,
+      "question": "The RCS or the person authorised by him have the following powers as per section 65(2)? Choose the correct answers\nI. He have free access to the books, accounts, documents etc at all reasonable times.\nII. He may summon any person in possession of any such books, accounts etc\nIII. Power to call general body meeting",
+      "options": [
+        "I only",
+        "II only",
+        "I and II only",
+        "I, II, III"
+      ],
+      "answer": "I, II, III",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 181,
+      "question": "Inquiry under section 65 shall be completed within a period of __?",
+      "options": [
+        "60 days",
+        "45 days",
+        "4 months",
+        "3 months"
+      ],
+      "answer": "4 months",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 182,
+      "question": "Section 66 of KCS Act deals with __?",
+      "options": [
+        "Suspension of officers",
+        "Powers of RCS to give directions",
+        "Submission of returns",
+        "None of these"
+      ],
+      "answer": "Submission of returns",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 183,
+      "question": "As per section 66(2B) The report of such inspections shall be communicated in writing to the apex, central and federal societies and all primary co-operative societies concerned, within a Period of __ days?",
+      "options": [
+        "30",
+        "60",
+        "25",
+        "90"
+      ],
+      "answer": "60",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 184,
+      "question": "Which among the following particulars are included while filing returns to RCS?\nI. Comprehensive annual report\nII. Plan for surplus disposal approved by the Registrar\nIII. Rectification report approved by the committee\nIV. List of amendments to the byelaws",
+      "options": [
+        "All of these",
+        "I, II, III",
+        "I, III, IV",
+        "I and II only"
+      ],
+      "answer": "All of these",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 185,
+      "question": "Which among the following is wrong pair?",
+      "options": [
+        "Section 66A-Powers of Registrar to give directions",
+        "Section 67-Vigilence officer",
+        "Section 68-Surcharge",
+        "None of these"
+      ],
+      "answer": "None of these",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 186,
+      "question": "As per section 66C, the quarterly returns on credit activities duly certified by the chief executive and which shall be reviewed by the __?",
+      "options": [
+        "Registrar",
+        "Managing committee",
+        "President",
+        "President and two committee members"
+      ],
+      "answer": "Managing committee",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 187,
+      "question": "As per section 68(3) where the money, property, interest, cost or compensation is not repaid or restored as per sub section (2), within a period of __ the Registrar shall take urgent steps to recover such amounts from the concerned persons as arrears of public revenue due on land as specified in Section 79 of the Act.",
+      "options": [
+        "3 months",
+        "4 months",
+        "30 days",
+        "60 days"
+      ],
+      "answer": "3 months",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 188,
+      "question": "The Co-operative Arbitration court entertains __?",
+      "options": [
+        "Only monetary issues",
+        "Only Non-monetary issues",
+        "Both A and B",
+        "Only employee matters"
+      ],
+      "answer": "Both A and B",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 189,
+      "question": "The Arbitrator shall pass an award within __ in accordance with the provisions of the KCS Act?",
+      "options": [
+        "One year",
+        "6 months",
+        "2 years",
+        "3 months"
+      ],
+      "answer": "One year",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 190,
+      "question": "Consider the following Statements\nI. Section 69A deals with Cooperative Ombudsman\nII. The appointing authority of Cooperative Ombudsman is Registrar\nIII. Co-operative Ombudsman shall be under control of Registrar\nFind out the wrong Statement/statements",
+      "options": [
+        "I and II",
+        "I only",
+        "II and III",
+        "II only"
+      ],
+      "answer": "II and III",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 191,
+      "question": "The __ shall appoint an officer not below the Rank of DIG of Police as Vigilance Officer as per KCS Act __?",
+      "options": [
+        "Registrar",
+        "Government",
+        "DGP",
+        "None of these"
+      ],
+      "answer": "Government",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 192,
+      "question": "The maximum fees for deciding monetary disputes for claims above Rupees One lakh is __?",
+      "options": [
+        "1000/-",
+        "2000/-",
+        "3000/-",
+        "5000/-"
+      ],
+      "answer": "5000/-",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 193,
+      "question": "In the case of non monetary disputes, what is the fee for election petitions?",
+      "options": [
+        "7500",
+        "5000",
+        "3000",
+        "10000"
+      ],
+      "answer": "7500",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 194,
+      "question": "In the case of school cooperative societies, what is the fees for monetary disputes upto rupees ten lakhs?",
+      "options": [
+        "5000",
+        "7500",
+        "10000",
+        "None of these"
+      ],
+      "answer": "5000",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 195,
+      "question": "The term of office of Co-operative Ombudsman is __?",
+      "options": [
+        "3 Years from the date of entering office or attaining age 62 years",
+        "Only 3 years",
+        "3 Years from the date of entering office or attaining age 65 years",
+        "Decided by Registrar"
+      ],
+      "answer": "3 Years from the date of entering office or attaining age 65 years",
+      "explanation": "Marked as the answer in the source document."
+    },
+    {
+      "id": 196,
+      "question": "Fee for Non Monetary Disputes for petitions filed by employees of societies is __?",
+      "options": [
+        "2000",
+        "1500",
+        "5000",
+        "3000"
+      ],
+      "answer": "3000",
+      "explanation": "Marked as the answer in the source document."
     }
   ]
 }
