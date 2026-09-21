@@ -1,0 +1,20 @@
+{
+  "booklets": [
+    {
+      "id": "basic-aptitude-1",
+      "title": "Basic Aptitude — Booklet 1",
+      "category": "Aptitude",
+      "description": "Sample booklet for testing Mastery and Timed modes.",
+      "question_count": 12,
+      "file": "basic-aptitude-1.json"
+    },
+    {
+      "id": "gk-1",
+      "title": "General Knowledge — Booklet 1",
+      "category": "GK",
+      "description": "Second sample booklet showing how multiple booklets appear.",
+      "question_count": 5,
+      "file": "general-knowledge-1.json"
+    }
+  ]
+}
