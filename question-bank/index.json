@@ -15,6 +15,14 @@
       "description": "Second sample booklet showing how multiple booklets appear.",
       "question_count": 5,
       "file": "general-knowledge-1.json"
+    },
+    {
+      "id": "banking",
+      "title": "Co-operation, Banking & Accounting-Mixed Practice Question Bank",
+      "category": "Co-operation, Banking & Accounting",
+      "description": "",
+      "question_count": "",
+      "file": "Mixed Practice Question Bank.json"
     }
   ]
 }
